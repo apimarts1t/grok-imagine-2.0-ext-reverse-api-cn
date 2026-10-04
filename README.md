@@ -2,7 +2,7 @@
 
 > **1K $0.015** · model ID `grok-imagine-2.0-ext` · **逆向/逆向工程** route.
 
-**[查看实时价格](https://go.apimart.ai/k-618f3f)** · **[领取 API Key](https://go.apimart.ai/k-5ea64a)**
+**[查看实时价格](https://go.apimart.ai/k-c0a87e)** · **[领取 API Key](https://go.apimart.ai/k-5ea64a)**
 
 grok-imagine-2.0-ext-reverse-api-cn 是 **逆向** 的 Grok Imagine 2.0 Ext 接入仓库：调用 ID `grok-imagine-2.0-ext`，与官方转接（`grok-imagine-image-2.0`）并行存在，单价更低。
 
